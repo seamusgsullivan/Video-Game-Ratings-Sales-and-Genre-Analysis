@@ -1,0 +1,32 @@
+[build-system]
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "Video Game Ratings Sales and Genre Analysis"
+version = "0.0.1"
+description = "The final capstone project for INST414 by Seamus Sullivan."
+authors = [
+  { name = "Seamus Sullivan" },
+]
+
+readme = "README.md"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    
+]
+requires-python = "~=3.10.0"
+
+
+[tool.ruff]
+line-length = 99
+src = ["Video Game Ratings Sales and Genre Analysis"]
+include = ["pyproject.toml", "Video Game Ratings Sales and Genre Analysis/**/*.py"]
+
+[tool.ruff.lint]
+extend-select = ["I"]  # Add import sorting
+
+[tool.ruff.lint.isort]
+known-first-party = ["Video Game Ratings Sales and Genre Analysis"]
+force-sort-within-sections = true
+
