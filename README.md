@@ -6,6 +6,16 @@
 
 The final capstone project for INST414 by Seamus Sullivan.
 
+Link to Dataset Used: [Video Game Sales with Ratings](https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings)
+
+---
+
+**README Update - Sprint 2 Progress**
+
+In Sprint 2, I cleaned the "Video Game Sales with Ratings" dataset that I am using for my analysis (see link above), explored missing values, and created visualizations as part of exploratory data analysis (EDA) to understand the data. I summarized distributions for my key numeric variables - global sales, critic scores, and user scores - and examined how sales differ across genres. I also identified weak relationships between review scores and sales and created sales tiers (Low, Medium, High) to explore class imbalance. Finally, I ran preliminary Random Forest models to see how critic and user scores relate to global sales. All steps are documented in the Jupyter notebooks, with clear comments and visualizations to make the analysis easy to follow.
+
+---
+
 ## Project Organization
 
 ```
