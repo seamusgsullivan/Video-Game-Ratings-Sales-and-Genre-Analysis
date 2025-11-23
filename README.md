@@ -16,6 +16,12 @@ In Sprint 2, I cleaned the "Video Game Sales with Ratings" dataset that I am usi
 
 ---
 
+**README Update - Sprint 3 Progress**
+
+In Sprint 3, I built, trained, and evaluated multiple regression models to predict global video game sales using critic score, user score, and genre. I compared Linear Regression, Random Forest, and Gradient Boosting, and found that Gradient Boosting performed the best, though its overall predictive power remained modest. I also generated a full set of diagnostic visualizations - including residual plots, learning curves, feature importance charts, and model comparison figures - to evaluate each model's performance and identify why errors occur. All Sprint 3 code (including the model instructions) can be found in Sprint_3_Code.ipynb, which is located in the notebooks folder of this repository. The code is organized to match the sections and subsections in the Sprint 3 report. All outputs should already be included in the notebook, but you can rerun the cell to reproduce them if needed.
+
+---
+
 ## Project Organization
 
 ```
