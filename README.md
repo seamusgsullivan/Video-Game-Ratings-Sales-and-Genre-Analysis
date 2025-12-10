@@ -6,6 +6,8 @@
 
 The final capstone project for INST414 by Seamus Sullivan.
 
+My project's research question: How do critic and user review scores relate to video game sales across different genres?
+
 Link to Dataset Used: [Video Game Sales with Ratings](https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings)
 
 ---
