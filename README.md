@@ -6,9 +6,13 @@
 
 The final capstone project for INST414 by Seamus Sullivan.
 
-My project's research question: How do critic and user review scores relate to video game sales across different genres?
-
 Link to Dataset Used: [Video Game Sales with Ratings](https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings)
+
+---
+
+**Project Overview**
+
+This project explores how critic and user review scores relate to global video game sales. Instead of trying to perfectly predict how well a game will sell, the goal of this project is to understand what review scores can and cannot tell us about the commercial success of video games. This project examines the relationship between game sales, critic scores, user scores, and game genres to show how much review performance matters in the gaming market and to explore whether highly reviewed games truly become best-selling titles. This project's research question is: How do critic and user review scores relate to video game sales across different genres?
 
 ---
 
